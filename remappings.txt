@@ -1,0 +1,6 @@
+@aragon/multisig-plugin/=lib/multisig-plugin/packages/contracts/src/
+@aragon/token-voting-plugin/=lib/token-voting-plugin/packages/contracts/src/
+@aragon/staged-proposal-processor-plugin/=lib/staged-proposal-processor-plugin/src/
+@aragon/osx/=lib/osx/packages/contracts/src/
+@aragon/osx-commons-contracts/=lib/osx-commons/contracts/
+@aragon/toucan-voting-plugin/=lib/toucan-voting-plugin/src/
